@@ -1,0 +1,41 @@
+/* Custom styles */
+.hero-section {
+    background-color: #f8f9fa;
+    padding: 80px 0;
+  }
+  
+  .section-title {
+    color: #ffcc00;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  .popular-for-you,
+  .new-recipe {
+    background-color: #f8f9fa;
+  }
+  
+  .popular-recipes .card {
+    border: none;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+  }
+  
+  .popular-recipes .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .footer-section {
+    color: #fff;
+  }
+  
+  .footer-section a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .footer-section a:hover {
+    text-decoration: underline;
+  }
+  
